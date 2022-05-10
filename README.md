@@ -16,7 +16,7 @@ $ cd react-hello
 ##### and install the npm package:
 ```
 $ npm install
-```
+```n
 
 ## Start coding!
 
